@@ -1,0 +1,97 @@
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/XFWallet.iOS.exe
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/XFWallet.iOS.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/PanCardView.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/PanCardView.iOS.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/XFWallet.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/XFWallet.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_PartialAppManifest.items
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_PartialAppManifest.items
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_heart.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_heart@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_heart@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_menu.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_menu@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_menu@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_notification.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_notification@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_notification@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_shopping_bag.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_shopping_bag@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_shopping_bag@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_x_left.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_x_right.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_search@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_search.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_search@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/visa.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/mastercard.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/mask2.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/mask.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_down_arrow.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_down_arrow@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_down_arrow@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/amex.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/mcdonalds.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/centrepoint.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/careem.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/amazon.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/starbucks.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_close.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_close@2x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/ic_close@3x.png
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/XFWallet.iOS.csprojAssemblyReference.cache
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/XFWallet.iOS.csproj.CoreCompileInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/XFWallet.iOS.csproj.CopyComplete
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/XFWallet.iOS.exe
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet.iOS/obj/iPhoneSimulator/Debug/XFWallet.iOS.pdb

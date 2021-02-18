@@ -1,0 +1,15 @@
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/bin/Debug/netstandard2.0/XFWallet.deps.json
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/bin/Debug/netstandard2.0/XFWallet.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/bin/Debug/netstandard2.0/ref/XFWallet.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/bin/Debug/netstandard2.0/XFWallet.pdb
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XFWallet.csprojAssemblyReference.cache
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/Views/AddCreditCardPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XFWallet.AssemblyInfoInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XFWallet.AssemblyInfo.cs
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XFWallet.csproj.CoreCompileInputs.cache
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XFWallet.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/ref/XFWallet.dll
+/Users/ritchie/Documents/Own/ImpFiles/Wallet/walletCreditCard/XFWallet/XFWallet/obj/Debug/netstandard2.0/XFWallet.pdb
